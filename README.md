@@ -1,3 +1,4 @@
+*to use the library, just run the start.py file once, after running it once, the start.py file will be completely deleted.
 *method one:
 This method raises the first number to the power of the second number
 numberrrr.number(number_one,number_two)
